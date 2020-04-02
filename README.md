@@ -6,3 +6,4 @@
 ## Spark 2
 
 - [Standalone](docs/001.standalone.md)
+- [Yarn](docs/002.yarn.md)
