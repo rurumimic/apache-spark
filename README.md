@@ -7,3 +7,8 @@
 
 - [Standalone](docs/001.standalone.md)
 - [Yarn](docs/002.yarn.md)
+- [Kubernetes](docs/003.kubernetes.md)
+
+## Spark 3
+
+- [Streaming](docs/001.streaming.md)
