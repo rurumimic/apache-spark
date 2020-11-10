@@ -5,10 +5,10 @@
 
 ## Spark 2
 
-- [Standalone](docs/001.standalone.md)
-- [Yarn](docs/002.yarn.md)
-- [Kubernetes](docs/003.kubernetes.md)
+- [Standalone](spark-2/001.standalone.md)
+- [Yarn](spark-2/002.yarn.md)
+- [Kubernetes](spark-2/003.kubernetes.md)
 
 ## Spark 3
 
-- [Streaming](docs/001.streaming.md)
+- [Streaming](spark-3/001.streaming.md)
